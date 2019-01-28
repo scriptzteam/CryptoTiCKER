@@ -5,433 +5,440 @@ _________                        __       ___________.___________  ____  __.____
  \______  /|__|   / ____||   __/|__|  \____/|____|   |__|\______  /____|__ \/_______  / |____|_  /
         \/        \/     |__|   sCRiPTz-TEAM.iNFO               \/        \/        \/         \/ 
 
-Updated: 2019-January-28 03:10:03
+Updated: 2019-January-28 03:20:03
 
 ------Bitcoin-------
-BTC = 3560.081297 USD
-1H Change = -0.56%
-24H Change = -1.23%
-7D Change = -1.06%
+BTC = 3561.02173105 USD
+1H Change = -0.53%
+24H Change = -1.22%
+7D Change = -1.04%
 --------------------
 
 --------XRP---------
-XRP = 0.3058829504 USD
-1H Change = -0.97%
-24H Change = -2.78%
-7D Change = -4.77%
+XRP = 0.3057164043 USD
+1H Change = -0.93%
+24H Change = -2.83%
+7D Change = -4.82%
 --------------------
 
 ------Ethereum------
-ETH = 111.748568339 USD
-1H Change = -1.28%
-24H Change = -3.92%
-7D Change = -5.82%
+ETH = 111.799106715 USD
+1H Change = -1.2%
+24H Change = -3.89%
+7D Change = -5.75%
 --------------------
 
 --------EOS---------
-EOS = 2.3586844197 USD
-1H Change = -0.8%
-24H Change = -3.59%
-7D Change = -0.26%
+EOS = 2.3602574024 USD
+1H Change = -0.73%
+24H Change = -3.54%
+7D Change = -0.19%
 --------------------
 
 ----Bitcoin Cash----
-BCH = 121.298664477 USD
-1H Change = -0.85%
-24H Change = -4.69%
-7D Change = -1.85%
+BCH = 121.000341266 USD
+1H Change = -1.06%
+24H Change = -4.95%
+7D Change = -2.08%
 --------------------
 
 -------Tether-------
-USDT = 1.0082184361 USD
-1H Change = -0.0%
-24H Change = -0.1%
-7D Change = -0.87%
+USDT = 1.0100987889 USD
+1H Change = 0.22%
+24H Change = 0.09%
+7D Change = -0.68%
 --------------------
 
 ------Litecoin------
-LTC = 32.1702313908 USD
-1H Change = -1.11%
-24H Change = -3.14%
-7D Change = 3.06%
+LTC = 32.1622329151 USD
+1H Change = -1.19%
+24H Change = -3.2%
+7D Change = 3.03%
 --------------------
 
 --------TRON--------
-TRX = 0.028179232 USD
-1H Change = -2.98%
-24H Change = -1.71%
-7D Change = 17.86%
+TRX = 0.0280162372 USD
+1H Change = -3.64%
+24H Change = -2.46%
+7D Change = 17.19%
 --------------------
 
 ------Stellar-------
-XLM = 0.0947812375 USD
-1H Change = -1.44%
-24H Change = -5.3%
-7D Change = -9.09%
+XLM = 0.094659954 USD
+1H Change = -1.43%
+24H Change = -5.46%
+7D Change = -9.19%
 --------------------
 
 -----Bitcoin SV-----
-BSV = 69.6390092797 USD
-1H Change = -1.46%
-24H Change = -5.92%
-7D Change = -7.57%
+BSV = 70.0725191512 USD
+1H Change = -0.74%
+24H Change = -5.35%
+7D Change = -6.99%
 --------------------
 
 ------Cardano-------
-ADA = 0.0406573251 USD
-1H Change = -1.47%
-24H Change = -4.5%
-7D Change = -6.15%
+ADA = 0.0404958468 USD
+1H Change = -1.9%
+24H Change = -4.87%
+7D Change = -6.52%
 --------------------
 
 ----Binance Coin----
-BNB = 7.0373140665 USD
-1H Change = -1.28%
-24H Change = 1.56%
-7D Change = 8.23%
+BNB = 7.002370164 USD
+1H Change = -1.86%
+24H Change = 1.06%
+7D Change = 7.7%
 --------------------
 
 -------Monero-------
-XMR = 46.4138366763 USD
-1H Change = -0.4%
-24H Change = 1.31%
-7D Change = 5.06%
+XMR = 46.1093609362 USD
+1H Change = -1.0%
+24H Change = 0.6%
+7D Change = 4.37%
 --------------------
 
 --------IOTA--------
-MIOTA = 0.2678955894 USD
-1H Change = -0.79%
-24H Change = -6.66%
-7D Change = -12.15%
+MIOTA = 0.2636811135 USD
+1H Change = -2.35%
+24H Change = -8.17%
+7D Change = -13.54%
 --------------------
 
 --------Dash--------
-DASH = 70.7264262615 USD
-1H Change = -0.68%
-24H Change = -4.37%
-7D Change = 1.31%
+DASH = 70.6156341502 USD
+1H Change = -0.77%
+24H Change = -4.55%
+7D Change = 1.15%
 --------------------
 
 --------NEO---------
-NEO = 7.3543344619 USD
-1H Change = -0.87%
-24H Change = -1.56%
-7D Change = -3.25%
+NEO = 7.3415292312 USD
+1H Change = -1.15%
+24H Change = -1.74%
+7D Change = -3.42%
 --------------------
 
 --------NEM---------
-XEM = 0.0519817618 USD
-1H Change = -1.18%
-24H Change = -4.89%
-7D Change = -7.2%
+XEM = 0.051943723 USD
+1H Change = -1.03%
+24H Change = -4.95%
+7D Change = -7.25%
 --------------------
 
 --Ethereum Classic--
-ETC = 4.2032156439 USD
-1H Change = -0.63%
-24H Change = -3.06%
-7D Change = -2.53%
+ETC = 4.1938682391 USD
+1H Change = -0.78%
+24H Change = -3.27%
+7D Change = -2.76%
 --------------------
 
 ------USD Coin------
-USDC = 1.0141338686 USD
-1H Change = 0.04%
-24H Change = 0.04%
-7D Change = -0.22%
+USDC = 1.0152204497 USD
+1H Change = 0.15%
+24H Change = 0.14%
+7D Change = -0.11%
 --------------------
 
 -------Maker--------
-MKR = 429.372547073 USD
-1H Change = -0.91%
-24H Change = -4.35%
-7D Change = -3.19%
+MKR = 427.8336564 USD
+1H Change = -1.3%
+24H Change = -4.85%
+7D Change = -3.48%
 --------------------
 
 -------Zcash--------
-ZEC = 51.1048444237 USD
-1H Change = -0.31%
-24H Change = -2.32%
-7D Change = -3.38%
+ZEC = 51.0608768017 USD
+1H Change = -0.32%
+24H Change = -2.4%
+7D Change = -3.46%
 --------------------
 
 -------Waves--------
-WAVES = 2.6393548329 USD
-1H Change = -1.75%
-24H Change = -0.83%
-7D Change = 4.33%
+WAVES = 2.6365875546 USD
+1H Change = -1.71%
+24H Change = -0.9%
+7D Change = 4.21%
 --------------------
 
 -------Tezos--------
-XTZ = 0.4011430697 USD
-1H Change = -0.14%
-24H Change = -0.82%
-7D Change = -6.58%
+XTZ = 0.3994085972 USD
+1H Change = -0.55%
+24H Change = -1.16%
+7D Change = -6.99%
 --------------------
 
 ------Dogecoin------
-DOGE = 0.0020222606 USD
-1H Change = -0.14%
-24H Change = -2.53%
-7D Change = -4.04%
+DOGE = 0.0020222754 USD
+1H Change = -0.06%
+24H Change = -2.5%
+7D Change = -4.02%
 --------------------
 
 ------VeChain-------
-VET = 0.004098424 USD
+VET = 0.004097841 USD
 1H Change = -1.65%
-24H Change = -5.55%
-7D Change = 0.88%
+24H Change = -5.53%
+7D Change = 0.81%
 --------------------
 
 ------TrueUSD-------
-TUSD = 1.0141435021 USD
-1H Change = 0.09%
-24H Change = 0.21%
-7D Change = -0.25%
+TUSD = 1.015182344 USD
+1H Change = 0.2%
+24H Change = 0.31%
+7D Change = -0.14%
 --------------------
 
 --------Holo--------
-HOT = 0.0014987319 USD
-1H Change = -2.04%
-24H Change = 22.81%
-7D Change = 104.77%
+HOT = 0.0015189037 USD
+1H Change = -0.9%
+24H Change = 24.7%
+7D Change = 107.51%
 --------------------
 
 ------Ontology------
-ONT = 0.592929 USD
-1H Change = -0.77%
-24H Change = -3.88%
-7D Change = -0.2%
+ONT = 0.5908625152 USD
+1H Change = -1.08%
+24H Change = -4.26%
+7D Change = -0.54%
 --------------------
 
 ----Bitcoin Gold----
-BTG = 10.8926400756 USD
-1H Change = -0.31%
-24H Change = -2.34%
-7D Change = -3.32%
+BTG = 10.8816948512 USD
+1H Change = -0.36%
+24H Change = -2.44%
+7D Change = -3.41%
 --------------------
 
 ------Zilliqa-------
-ZIL = 0.0219121454 USD
-1H Change = -1.91%
-24H Change = -4.71%
-7D Change = 3.11%
+ZIL = 0.0218442691 USD
+1H Change = -2.27%
+24H Change = -5.24%
+7D Change = 2.78%
 --------------------
 
 --------Qtum--------
-QTUM = 1.9590406216 USD
-1H Change = -1.89%
-24H Change = -5.55%
+QTUM = 1.9588820644 USD
+1H Change = -1.97%
+24H Change = -5.56%
 7D Change = -4.73%
 --------------------
 
 ------OmiseGO-------
-OMG = 1.1394954242 USD
-1H Change = -2.46%
-24H Change = -8.77%
-7D Change = -9.72%
+OMG = 1.140943233 USD
+1H Change = -2.13%
+24H Change = -8.67%
+7D Change = -9.61%
 --------------------
 
 ---------0x---------
-ZRX = 0.2693075056 USD
-1H Change = -1.78%
-24H Change = -6.06%
-7D Change = -5.97%
+ZRX = 0.2685324701 USD
+1H Change = -1.98%
+24H Change = -6.33%
+7D Change = -6.25%
 --------------------
 
 -------Decred-------
-DCR = 16.8832045331 USD
-1H Change = -0.91%
-24H Change = -2.22%
-7D Change = 1.31%
+DCR = 16.8751629825 USD
+1H Change = -0.9%
+24H Change = -2.33%
+7D Change = 1.25%
 --------------------
 
 Basic Attention Token
-BAT = 0.1235052543 USD
-1H Change = -0.92%
-24H Change = -2.31%
-7D Change = -0.07%
+BAT = 0.122997042 USD
+1H Change = -1.32%
+24H Change = -2.74%
+7D Change = -0.47%
 --------------------
 
 -----Chainlink------
-LINK = 0.4142833605 USD
-1H Change = -3.69%
-24H Change = -8.22%
-7D Change = -14.86%
+LINK = 0.4131933483 USD
+1H Change = -3.27%
+24H Change = -8.38%
+7D Change = -15.08%
 --------------------
 
 -------Augur--------
-REP = 12.7592610258 USD
-1H Change = -1.41%
-24H Change = -4.73%
-7D Change = -27.28%
+REP = 12.7878788567 USD
+1H Change = -1.19%
+24H Change = -4.34%
+7D Change = -27.05%
 --------------------
 
 --------Lisk--------
-LSK = 1.2087373344 USD
-1H Change = 0.11%
-24H Change = -1.66%
-7D Change = -1.99%
+LSK = 1.2000413111 USD
+1H Change = -0.77%
+24H Change = -2.39%
+7D Change = -2.7%
 --------------------
 
 Paxos Standard Token
-PAX = 1.0119304632 USD
-1H Change = 0.12%
-24H Change = 0.19%
-7D Change = -0.2%
+PAX = 1.012130817 USD
+1H Change = 0.15%
+24H Change = 0.21%
+7D Change = -0.18%
 --------------------
 
 ------Pundi X-------
-NPXS = 0.0007414407 USD
-1H Change = 1.16%
-24H Change = 30.2%
-7D Change = 60.23%
+NPXS = 0.000742386 USD
+1H Change = 1.27%
+24H Change = 30.44%
+7D Change = 60.45%
 --------------------
 
 --------Nano--------
-NANO = 0.9147777964 USD
-1H Change = -0.27%
-24H Change = -6.53%
-7D Change = 4.73%
+NANO = 0.9102047054 USD
+1H Change = -0.86%
+24H Change = -7.01%
+7D Change = 4.17%
 --------------------
 
 --Bitcoin Diamond---
-BCD = 0.761940264 USD
-1H Change = -0.33%
-24H Change = -2.76%
-7D Change = -6.76%
+BCD = 0.7591348071 USD
+1H Change = -0.62%
+24H Change = -3.11%
+7D Change = -7.11%
 --------------------
 
 ------Bytecoin------
-BCN = 0.0006167464 USD
-1H Change = 0.56%
-24H Change = 1.69%
-7D Change = -0.82%
+BCN = 0.0006162803 USD
+1H Change = 1.15%
+24H Change = 1.53%
+7D Change = -0.9%
 --------------------
 
 ------DigiByte------
-DGB = 0.0092697131 USD
-1H Change = 0.54%
-24H Change = -1.4%
-7D Change = -3.48%
+DGB = 0.0093193302 USD
+1H Change = 0.37%
+24H Change = -0.87%
+7D Change = -2.98%
 --------------------
 
 --------ICON--------
-ICX = 0.2176691436 USD
-1H Change = -1.43%
-24H Change = -4.48%
-7D Change = -6.04%
+ICX = 0.2174929271 USD
+1H Change = -1.46%
+24H Change = -4.58%
+7D Change = -6.11%
 --------------------
 
 -----BitShares------
-BTS = 0.0372055152 USD
-1H Change = -1.04%
-24H Change = -3.32%
-7D Change = -6.56%
+BTS = 0.0373550715 USD
+1H Change = -0.68%
+24H Change = -2.92%
+7D Change = -6.18%
 --------------------
 
 -------Revain-------
-R = 0.2053521327 USD
-1H Change = 1.18%
-24H Change = -9.3%
-7D Change = -6.72%
+R = 0.2058648401 USD
+1H Change = 1.17%
+24H Change = -9.15%
+7D Change = -6.48%
 --------------------
 
 ------Siacoin-------
-SC = 0.0024822449 USD
-1H Change = -0.56%
-24H Change = 1.74%
-7D Change = 1.74%
+SC = 0.0024767041 USD
+1H Change = -0.4%
+24H Change = 1.52%
+7D Change = 1.51%
 --------------------
 
 -------Verge--------
-XVG = 0.0063834587 USD
-1H Change = -0.67%
-24H Change = -3.64%
-7D Change = -3.16%
+XVG = 0.0063485661 USD
+1H Change = -1.28%
+24H Change = -4.16%
+7D Change = -3.69%
 --------------------
 
 ---Gemini Dollar----
-GUSD = 0.9979392645 USD
-1H Change = 0.08%
-24H Change = -0.47%
-7D Change = -1.09%
+GUSD = 0.9991109387 USD
+1H Change = 0.03%
+24H Change = -0.37%
+7D Change = -0.98%
 --------------------
 
 -------Steem--------
-STEEM = 0.3043523519 USD
-1H Change = -2.45%
-24H Change = -9.39%
-7D Change = -22.5%
+STEEM = 0.3024875252 USD
+1H Change = -2.7%
+24H Change = -9.91%
+7D Change = -23.09%
 --------------------
 
 -----Aeternity------
-AE = 0.3846386664 USD
-1H Change = -1.77%
-24H Change = -6.75%
-7D Change = -10.14%
+AE = 0.3831835669 USD
+1H Change = -2.15%
+24H Change = -7.13%
+7D Change = -10.48%
 --------------------
 
 ------Stratis-------
-STRAT = 0.9011471106 USD
-1H Change = -1.15%
-24H Change = -6.41%
-7D Change = -8.67%
+STRAT = 0.8763908051 USD
+1H Change = -3.91%
+24H Change = -8.99%
+7D Change = -11.18%
 --------------------
 
 -------Bytom--------
-BTM = 0.0792855262 USD
+BTM = 0.079240919 USD
 1H Change = -0.25%
-24H Change = -0.91%
-7D Change = 3.72%
+24H Change = -0.99%
+7D Change = 3.66%
 --------------------
 
 -------Komodo-------
-KMD = 0.7070803177 USD
-1H Change = 1.28%
-24H Change = 3.78%
-7D Change = 8.1%
+KMD = 0.7038678768 USD
+1H Change = 0.46%
+24H Change = 3.3%
+7D Change = 7.65%
 --------------------
 
 --------Dai---------
-DAI = 1.0068763938 USD
-1H Change = -0.25%
-24H Change = -0.55%
-7D Change = 0.15%
+DAI = 1.0120087643 USD
+1H Change = 0.23%
+24H Change = -0.08%
+7D Change = 0.67%
 --------------------
 
 --------IOST--------
-IOST = 0.006074977 USD
-1H Change = 0.34%
-24H Change = -2.3%
-7D Change = -6.63%
+IOST = 0.0060843543 USD
+1H Change = 0.2%
+24H Change = -2.05%
+7D Change = -6.51%
 --------------------
 
 ------Populous------
-PPT = 1.2960247629 USD
-1H Change = -0.97%
-24H Change = -3.16%
-7D Change = -0.83%
+PPT = 1.3002190342 USD
+1H Change = -0.7%
+24H Change = -2.77%
+7D Change = -0.51%
 --------------------
 
 -------Status-------
-SNT = 0.0197945117 USD
-1H Change = -3.05%
-24H Change = -7.84%
-7D Change = -16.0%
+SNT = 0.0197632197 USD
+1H Change = -3.18%
+24H Change = -8.05%
+7D Change = -16.15%
 --------------------
 
 ----Electroneum-----
-ETN = 0.0069341226 USD
-1H Change = -0.56%
-24H Change = 0.74%
-7D Change = -1.24%
+ETN = 0.0069198815 USD
+1H Change = -0.76%
+24H Change = 0.52%
+7D Change = -1.46%
 --------------------
 
 -------Golem--------
-GNT = 0.0626276653 USD
-1H Change = -1.67%
-24H Change = -5.18%
-7D Change = -3.78%
+GNT = 0.0622752127 USD
+1H Change = -2.02%
+24H Change = -5.7%
+7D Change = -4.34%
+--------------------
+
+-----Cryptonex------
+CNX = 1.0677334282 USD
+1H Change = 0.17%
+24H Change = -0.06%
+7D Change = 0.71%
 --------------------
 
 -------PayPie-------
@@ -441,269 +448,262 @@ PPP = 0.7151831021 USD
 7D Change = 0.0%
 --------------------
 
------Cryptonex------
-CNX = 1.0578930924 USD
-1H Change = -0.62%
-24H Change = -0.9%
-7D Change = -0.23%
+--------ODEM--------
+ODE = 0.2589971754 USD
+1H Change = 0.98%
+24H Change = -6.35%
+7D Change = -6.12%
 --------------------
 
 -------Factom-------
-FCT = 6.542231564 USD
-1H Change = -1.34%
-24H Change = -3.07%
-7D Change = 1.65%
+FCT = 6.5342796276 USD
+1H Change = -1.66%
+24H Change = -3.18%
+7D Change = 1.51%
 --------------------
 
 --------REPO--------
-REPO = 0.5162058224 USD
-1H Change = -1.37%
-24H Change = -4.49%
-7D Change = -8.27%
---------------------
-
---------ODEM--------
-ODE = 0.2537575885 USD
-1H Change = -1.17%
-24H Change = -8.2%
-7D Change = -8.05%
---------------------
-
-----MaidSafeCoin----
-MAID = 0.1194053197 USD
-1H Change = -0.22%
-24H Change = -1.88%
-7D Change = 1.93%
---------------------
-
--------Ardor--------
-ARDR = 0.0532488119 USD
-1H Change = -0.67%
-24H Change = -1.06%
-7D Change = -2.57%
---------------------
-
-----Huobi Token-----
-HT = 1.0292564478 USD
-1H Change = -0.66%
-24H Change = -1.66%
-7D Change = -2.58%
---------------------
-
-------Loopring------
-LRC = 0.0645369225 USD
-1H Change = -4.09%
-24H Change = -10.03%
-7D Change = -5.04%
---------------------
-
----Insight Chain----
-INB = 0.300838691 USD
-1H Change = -0.02%
-24H Change = 0.61%
-7D Change = 2.87%
+REPO = 0.5160432435 USD
+1H Change = -1.3%
+24H Change = -4.55%
+7D Change = -8.31%
 --------------------
 
 -------Aurora-------
-AOA = 0.0072697842 USD
-1H Change = -10.31%
-24H Change = -9.9%
-7D Change = -30.41%
+AOA = 0.0086358698 USD
+1H Change = 7.7%
+24H Change = 6.69%
+7D Change = -17.32%
 --------------------
 
---------Ark---------
-ARK = 0.4305405753 USD
-1H Change = -4.77%
-24H Change = 7.99%
-7D Change = 7.59%
---------------------
-
--------Mixin--------
-XIN = 98.0380160677 USD
-1H Change = -1.11%
-24H Change = -3.62%
-7D Change = -1.88%
---------------------
-
-----Project Pai-----
-PAI = 0.039296824 USD
-1H Change = -1.03%
-24H Change = -0.23%
-7D Change = -7.23%
---------------------
-
------HyperCash------
-HC = 0.9788277113 USD
-1H Change = -2.21%
-24H Change = -9.83%
-7D Change = -10.63%
---------------------
-
-------Polymath------
-POLY = 0.1120869315 USD
-1H Change = -2.2%
-24H Change = -5.8%
-7D Change = -6.05%
---------------------
-
-----Waltonchain-----
-WTC = 1.0375054881 USD
-1H Change = -1.17%
-24H Change = -6.58%
-7D Change = -9.0%
---------------------
-
---------PIVX--------
-PIVX = 0.7212485918 USD
-1H Change = -0.92%
-24H Change = -6.68%
-7D Change = -2.95%
---------------------
-
--------THETA--------
-THETA = 0.056115223 USD
-1H Change = -4.43%
-24H Change = -15.42%
-7D Change = 20.31%
---------------------
-
-----Decentraland----
-MANA = 0.0371587171 USD
-1H Change = -1.25%
-24H Change = -7.31%
-7D Change = -3.42%
---------------------
-
-------ReddCoin------
-RDD = 0.0013521285 USD
-1H Change = -4.65%
-24H Change = -2.62%
-7D Change = 10.77%
---------------------
-
------Dentacoin------
-DCN = 0.0001134413 USD
-1H Change = -0.83%
-24H Change = -5.25%
-7D Change = -12.36%
---------------------
-
--------Linkey-------
-LKY = 0.7310053088 USD
-1H Change = -1.07%
-24H Change = -3.69%
-7D Change = 11.69%
---------------------
-
----KuCoin Shares----
-KCS = 0.4048197372 USD
-1H Change = -0.63%
-24H Change = -0.5%
-7D Change = -9.28%
---------------------
-
---------Aion--------
-AION = 0.1280616249 USD
-1H Change = -0.66%
-24H Change = -5.14%
-7D Change = -3.88%
---------------------
-
-----STASIS EURS-----
-EURS = 1.115980266 USD
-1H Change = 0.05%
-24H Change = 0.02%
-7D Change = 0.51%
---------------------
-
-------DigixDAO------
-DGD = 17.2701642964 USD
-1H Change = -2.26%
-24H Change = -9.64%
-7D Change = -2.77%
---------------------
-
------Crypto.com-----
-MCO = 2.1518718323 USD
-1H Change = -1.06%
-24H Change = -4.34%
-7D Change = -4.78%
---------------------
-
-----Power Ledger----
-POWR = 0.0855824087 USD
-1H Change = -0.86%
-24H Change = -7.43%
-7D Change = -22.56%
---------------------
-
--------Bancor-------
-BNT = 0.5296224356 USD
-1H Change = -1.83%
-24H Change = -8.15%
-7D Change = -3.69%
---------------------
-
------Ravencoin------
-RVN = 0.0121439689 USD
-1H Change = -1.44%
-24H Change = -4.92%
-7D Change = 0.21%
---------------------
-
-------GXChain-------
-GXS = 0.5536002476 USD
-1H Change = -0.94%
-24H Change = -1.77%
-7D Change = -7.44%
---------------------
-
-------Elastos-------
-ELA = 2.2810816782 USD
+----MaidSafeCoin----
+MAID = 0.1186908507 USD
 1H Change = -0.74%
-24H Change = -0.72%
-7D Change = 6.47%
+24H Change = -2.48%
+7D Change = 1.33%
 --------------------
 
-------Wanchain------
-WAN = 0.3105840228 USD
-1H Change = -1.18%
-24H Change = -7.43%
-7D Change = -0.76%
---------------------
-
-------MonaCoin------
-MONA = 0.5030797736 USD
-1H Change = -0.25%
-24H Change = -2.95%
-7D Change = -8.53%
---------------------
-
--------Zcoin--------
-XZC = 4.8846185717 USD
-1H Change = -0.55%
-24H Change = -4.15%
-7D Change = -5.61%
---------------------
-
---Crypto.com Chain--
-CRO = 0.0137688845 USD
-1H Change = 0.2%
-24H Change = -0.13%
+-------Ardor--------
+ARDR = 0.0531736425 USD
+1H Change = -0.66%
+24H Change = -1.18%
 7D Change = -2.71%
 --------------------
 
---------WAX---------
-WAX = 0.034333247 USD
+----Huobi Token-----
+HT = 1.0261165151 USD
+1H Change = -0.93%
+24H Change = -1.95%
+7D Change = -2.87%
+--------------------
+
+------Loopring------
+LRC = 0.0638689625 USD
+1H Change = -4.94%
+24H Change = -10.85%
+7D Change = -6.08%
+--------------------
+
+---Insight Chain----
+INB = 0.3007989392 USD
+1H Change = -0.03%
+24H Change = 0.55%
+7D Change = 2.85%
+--------------------
+
+--------Ark---------
+ARK = 0.4302231851 USD
+1H Change = -5.14%
+24H Change = 7.88%
+7D Change = 7.51%
+--------------------
+
+-------Mixin--------
+XIN = 98.2006401594 USD
+1H Change = -0.17%
+24H Change = -3.5%
+7D Change = -1.74%
+--------------------
+
+----Project Pai-----
+PAI = 0.0393399166 USD
+1H Change = -0.95%
+24H Change = -0.13%
+7D Change = -7.17%
+--------------------
+
+----Waltonchain-----
+WTC = 1.0367985913 USD
+1H Change = -1.27%
+24H Change = -6.66%
+7D Change = -9.07%
+--------------------
+
+------Polymath------
+POLY = 0.110907499 USD
+1H Change = -3.29%
+24H Change = -6.77%
+7D Change = -7.04%
+--------------------
+
+-----HyperCash------
+HC = 0.9630013705 USD
+1H Change = -3.69%
+24H Change = -11.31%
+7D Change = -12.12%
+--------------------
+
+--------PIVX--------
+PIVX = 0.719464955 USD
 1H Change = -1.23%
-24H Change = -4.48%
-7D Change = -7.55%
+24H Change = -6.9%
+7D Change = -3.17%
+--------------------
+
+-------THETA--------
+THETA = 0.0556035075 USD
+1H Change = -5.28%
+24H Change = -16.09%
+7D Change = 19.22%
+--------------------
+
+----Decentraland----
+MANA = 0.0371185859 USD
+1H Change = -1.38%
+24H Change = -7.42%
+7D Change = -3.52%
+--------------------
+
+------ReddCoin------
+RDD = 0.0013505477 USD
+1H Change = -4.94%
+24H Change = -2.75%
+7D Change = 10.64%
+--------------------
+
+-----Dentacoin------
+DCN = 0.0001134456 USD
+1H Change = -0.81%
+24H Change = -5.34%
+7D Change = -12.37%
+--------------------
+
+-------Linkey-------
+LKY = 0.7311244874 USD
+1H Change = -0.76%
+24H Change = -3.53%
+7D Change = 11.62%
+--------------------
+
+---KuCoin Shares----
+KCS = 0.4045676945 USD
+1H Change = -0.7%
+24H Change = -0.55%
+7D Change = -9.32%
+--------------------
+
+--------Aion--------
+AION = 0.1281492896 USD
+1H Change = -0.43%
+24H Change = -5.13%
+7D Change = -3.8%
+--------------------
+
+----STASIS EURS-----
+EURS = 1.1154479527 USD
+1H Change = -0.05%
+24H Change = -0.07%
+7D Change = 0.47%
+--------------------
+
+------DigixDAO------
+DGD = 17.2541231621 USD
+1H Change = -2.55%
+24H Change = -9.98%
+7D Change = -2.85%
+--------------------
+
+-------Bancor-------
+BNT = 0.5310890653 USD
+1H Change = -1.47%
+24H Change = -7.89%
+7D Change = -3.41%
+--------------------
+
+-----Crypto.com-----
+MCO = 2.1362423411 USD
+1H Change = -1.84%
+24H Change = -5.07%
+7D Change = -5.46%
+--------------------
+
+-----Ravencoin------
+RVN = 0.0120601438 USD
+1H Change = -1.89%
+24H Change = -5.53%
+7D Change = -0.49%
+--------------------
+
+----Power Ledger----
+POWR = 0.0842315735 USD
+1H Change = -1.77%
+24H Change = -8.79%
+7D Change = -23.75%
+--------------------
+
+------GXChain-------
+GXS = 0.5540945931 USD
+1H Change = -0.83%
+24H Change = -1.73%
+7D Change = -7.24%
+--------------------
+
+------Elastos-------
+ELA = 2.2810925965 USD
+1H Change = -0.79%
+24H Change = -0.71%
+7D Change = 6.46%
+--------------------
+
+------Wanchain------
+WAN = 0.3106684165 USD
+1H Change = -0.92%
+24H Change = -7.41%
+7D Change = -0.73%
+--------------------
+
+------MonaCoin------
+MONA = 0.5025270644 USD
+1H Change = -0.37%
+24H Change = -3.01%
+7D Change = -8.61%
+--------------------
+
+-------Zcoin--------
+XZC = 4.8615889733 USD
+1H Change = -0.98%
+24H Change = -4.58%
+7D Change = -6.06%
+--------------------
+
+--Crypto.com Chain--
+CRO = 0.013657312 USD
+1H Change = -0.57%
+24H Change = -0.99%
+7D Change = -3.48%
 --------------------
 
 --------Nexo--------
-NEXO = 0.0569743826 USD
-1H Change = -3.16%
-24H Change = -5.81%
-7D Change = -6.9%
+NEXO = 0.0574169536 USD
+1H Change = -2.43%
+24H Change = -5.06%
+7D Change = -6.14%
+--------------------
+
+--------WAX---------
+WAX = 0.0342276784 USD
+1H Change = -1.65%
+24H Change = -4.75%
+7D Change = -7.82%
 --------------------
 
